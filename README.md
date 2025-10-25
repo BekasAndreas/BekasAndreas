@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BekasAndreas
-- 👀 I’m interested in Robotic Mechanical Engineering and Finite Element Analysis.
-- 🌱 I’m currently learning V-Rep (CoppeliaSim), Matlab and Ansys.
+- 👀 I'm nterested in robot design and software for intelligent robotic systems.
+- 🌱 I’m currently working with C++, ROS 2, SolidWorks, 3D printing, and rapid prototyping.
 - 💞️ I’m looking to collaborate on Robotic Automation Projects.
 - 📫 How to reach me: Send me to "bekas.andreas@gmail.com" with title BEKASANDREAS
 <!---
