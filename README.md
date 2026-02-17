@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BekasAndreas
-- 👀 I'm nterested in robot design and software for intelligent robotic systems.
-- 🌱 I’m currently working with C++, ROS 2, SolidWorks, 3D printing, and rapid prototyping.
+- 👀 I'm nterested in hardware and software development of intelligent robotic systems.
+- 🌱 I’m currently working with Microcontrollers, C++, ROS 2, SolidWorks, 3D printing, and rapid prototyping.
 - 💞️ I’m looking to collaborate on Robotic Automation Projects.
 - 📫 How to reach me: Send me to "bekas.andreas@gmail.com" with title BEKASANDREAS
 <!---
